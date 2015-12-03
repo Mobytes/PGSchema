@@ -1,5 +1,4 @@
-<?php
-
+<?php namespace Mobytes\Schemas\Facade;
 /*
  *
  *  * Copyright (C) 2015 eveR Vásquez.

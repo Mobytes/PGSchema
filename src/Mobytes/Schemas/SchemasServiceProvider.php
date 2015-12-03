@@ -1,7 +1,6 @@
 <?php namespace Mobytes\Schemas;
 
 use Illuminate\Support\ServiceProvider;
-
 class SchemasServiceProvider extends ServiceProvider
 {
 
@@ -41,7 +40,7 @@ class SchemasServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return array();
+        return [];
     }
 
 }
